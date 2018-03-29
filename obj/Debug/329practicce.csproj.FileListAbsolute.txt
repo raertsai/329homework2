@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\322program\329practicce\329practicce\bin\Debug\329practicce.exe.config
+C:\Users\USER\Desktop\322program\329practicce\329practicce\bin\Debug\329practicce.exe
+C:\Users\USER\Desktop\322program\329practicce\329practicce\bin\Debug\329practicce.pdb
+C:\Users\USER\Desktop\322program\329practicce\329practicce\obj\Debug\329practicce.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\322program\329practicce\329practicce\obj\Debug\329practicce.exe
+C:\Users\USER\Desktop\322program\329practicce\329practicce\obj\Debug\329practicce.pdb
